@@ -1,6 +1,7 @@
-excel: command line excel application
+# excel
+command line excel application
 
-Implemented commands :<br>
+## Implemented commands :<br>
 
 set cell :       set particular cell with given value or formula<br>
 get cell:        get particular cell value<br>
